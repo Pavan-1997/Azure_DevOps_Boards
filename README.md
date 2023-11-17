@@ -57,7 +57,7 @@ The basic process contains three work item types:
 9. **Test Cases:**
    - Specifies conditions to validate that a particular aspect of the system works correctly.
 
-## Defining Sprints 📅
+## Defining Sprints 
 
 A Sprint(also known as Iteration in Azure DevOps) is the amount of time we have to complete our tasks. Sprints help keep us focused. At the end, we can have a short retrospective meeting to share what we've accomplished. After that, we can plan the next one.
 **A sprint is typically two to four weeks long**.
@@ -66,7 +66,7 @@ A Sprint(also known as Iteration in Azure DevOps) is the amount of time we have 
 
 **Acceptance criteria** in Scrum are conditions or requirements that a work item must meet to be considered complete. Meeting these criteria indicates that the work has been successfully done and can be accepted. It should clearly define when a work item will be considered as **done**.
 
-## Important member of Agile/Scrum 🕵️‍♂️
+## Important member of Agile/Scrum 
 
 **Various parties play distinct roles in the development process in Scrum or Agile methodologies. Here are the key stakeholders:**
 
