@@ -57,3 +57,36 @@ The basic process contains three work item types:
 9. **Test Cases:**
    - Specifies conditions to validate that a particular aspect of the system works correctly.
 
+## Defining Sprints 📅
+
+A Sprint(also known as Iteration in Azure DevOps) is the amount of time we have to complete our tasks. Sprints help keep us focused. At the end, we can have a short retrospective meeting to share what we've accomplished. After that, we can plan the next one.
+**A sprint is typically two to four weeks long**.
+
+### Acceptance Criteria
+
+**Acceptance criteria** in Scrum are conditions or requirements that a work item must meet to be considered complete. Meeting these criteria indicates that the work has been successfully done and can be accepted. It should clearly define when a work item will be considered as **done**.
+
+## Important member of Agile/Scrum 🕵️‍♂️
+
+**Various parties play distinct roles in the development process in Scrum or Agile methodologies. Here are the key stakeholders:**
+
+**Product Owner:** Represents the customer and defines the product's requirements. Responsible for prioritizing the backlog and ensuring the development team works on the most valuable features.
+
+**Scrum Master:** Facilitates the Scrum process and ensures that the team follows the agreed-upon rules and practices. The Scrum Master acts as a coach, removing impediments and helping the team continuously improve also facilitates retrospective meetings and helps the team with any blockers. The goal of a retrospective meeting is to identify 
+  - what went well
+  - what could be improved
+  - and planning adjustments for the next sprint.
+
+**Development Team:** Cross-functional group responsible for delivering a potentially shippable product increment at the end of each sprint. The team self-organizes and collaborates to achieve the sprint goals.
+
+**Stakeholders:** Individuals or groups interested in the project or product. They provide input feedback and may attend sprint reviews and demos to assess progress. Stakeholders could include customers, end-users, managers, or other teams.
+
+**Scrum Team:** This encompasses the Product Owner, Scrum Master, and the Development Team collectively, working together to deliver a product increment.
+
+**Customers/Users:** The ultimate product or service consumers. Their needs and feedback are crucial for shaping the product and ensuring it meets user requirements.
+
+**Management:** Leadership and management teams may be involved to support the Scrum Team, remove organizational impediments, and align the project with overall business goals.
+
+**External Vendors/Partners:** External entities may sometimes be involved, such as vendors providing specific components or services that integrate into the project.
+
+It's important to note that effective communication and collaboration among these parties are fundamental to the success of Agile or Scrum projects. Roles and responsibilities may vary depending on the Agile framework or methodology used.
