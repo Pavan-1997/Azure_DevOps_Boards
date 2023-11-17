@@ -24,3 +24,36 @@ The basic process contains three work item types:
 - Epics: Group your more significant items into Epics such as Website updates, Cloud migration, CICD implementation
 - Issues: Further divide your Epics into Issues such as Homepage, about us page, secure sign-in
 - Task: Tasks are the smallest amount of work that can be assigned to someone, for example, designing a homepage header, standardizing fonts, and fixing the homepage CSS to make it mobile responsive.
+
+## Scrum process
+**A scrum-based process typically involves below work items:**
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/64189a73-f4e3-40ce-b60a-eea09536a25c)
+
+1. **User Stories:**
+   - Represents a small piece of functionality from an end user's perspective.
+
+2. **Tasks:**
+   - Breakdown of user stories into smaller, manageable tasks.
+
+3. **Bugs:**
+   - Represents defects or issues identified during development or testing.
+
+4. **Epics:**
+   - Larger bodies of work that can be broken down into multiple user stories.
+
+5. **Features:**
+   - Represents a functional group of user stories or a larger piece of work.
+
+6. **Product Backlog:**
+   - A prioritized list of all work items that must be addressed in the project - All the To-dos.
+
+7. **Sprint Backlog:**
+   - Subset of the product backlog that the Development Team commits to completing during a specific sprint - ALl the Sprint To-dos.
+
+8. **Impediments:**
+   - Obstacles or issues that hinder the progress of the team.
+
+9. **Test Cases:**
+   - Specifies conditions to validate that a particular aspect of the system works correctly.
+
