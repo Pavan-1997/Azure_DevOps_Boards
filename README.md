@@ -1,7 +1,7 @@
 # Azure DevOps Boards   
    
 Azure board is a project management tool to plan and track your work.
-
+ 
 ### What is a Work Item:
 A work item can track all types of activities. It could be a 
 *  Task to do
